@@ -1,0 +1,3 @@
+"""
+Service constants
+"""
