@@ -1,3 +1,0 @@
-"""
-Service use cases
-"""
